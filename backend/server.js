@@ -1,10 +1,10 @@
 import express from 'express';
-import datos from './data.js';
+import data from './data.js';
 
 const app = express();
 
 app.get('/api/productos', (req, res) => {
-  res.send(datos.tipoProductos);
+  res.send(data.productos);
 });
 
 const port = process.env.port || 5000;

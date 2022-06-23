@@ -1,5 +1,5 @@
 const data = {
-  tipoProductos: [
+  productos: [
     {
       nombre: 'Relojes',
       slug: 'relojes-decoralaser',
@@ -12,6 +12,7 @@ const data = {
       reviews: 10,
       descripcion: 'relojes con motivos customizables y de diferentes tamaños',
     },
+
     {
       nombre: 'Murales',
       slug: 'murales-decoralaser',
@@ -24,6 +25,7 @@ const data = {
       reviews: 10,
       descripcion: 'murales con motivos customizables y de diferentes tamaños',
     },
+
     {
       nombre: 'Aros',
       slug: 'aros-decoralaser',
