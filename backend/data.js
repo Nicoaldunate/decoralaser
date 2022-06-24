@@ -11,6 +11,7 @@ const data = {
       rating: 5,
       reviews: 10,
       descripcion: 'relojes con motivos customizables y de diferentes tamaños',
+      inStock: 10,
     },
 
     {
@@ -24,6 +25,7 @@ const data = {
       rating: 5,
       reviews: 10,
       descripcion: 'murales con motivos customizables y de diferentes tamaños',
+      inStock: 0,
     },
 
     {
@@ -37,6 +39,7 @@ const data = {
       rating: 5,
       reviews: 10,
       descripcion: 'Bonitos aros con motivos y diseños a la medida',
+      inStock: 20,
     },
   ],
 };
